@@ -42,9 +42,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subin-sabu&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subin-sabu&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=subin-sabu&show_icons=true&theme=radical&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=subin-sabu&theme=radical&cache_seconds=86400" alt="GitHub Streak" />
+
 </p>
 
 ---
