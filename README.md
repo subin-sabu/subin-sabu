@@ -60,7 +60,7 @@ Here are some projects I'm proud of:
 
 ### 🧠 Currently Learning
 
-- Intermediate **DSA** for coding interviews  
+- **DSA** for coding interviews  
 - **System Design** fundamentals  
 - **TypeScript** & **Next.js**
 
